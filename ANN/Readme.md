@@ -9,4 +9,6 @@ An ANN architecture can be considered to be a weighted and directed graph. All a
 **Activation Function**: This is an important function within an ANN. It is responsible for deciding whether the nodes of the hidden layer must be fired or not, based on the calculated weight of the input node. Only the nfired nodes make it to the output layer.
 - The association of the neuron outputs with neuron inputs can be assumed to be directed edges with weights.
 - The Artificial Neural Network receives the input signal from the external source in the form of a pattern and image in the form of a vector.
+
+
 ![alt text](image-1.png)
