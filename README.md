@@ -1,4 +1,4 @@
-# Deep_Learning
+# Deep Learning
 - Artificial Neural Networks
 - Convolutional Neural Networks
 - Recurrent Neural Networks
