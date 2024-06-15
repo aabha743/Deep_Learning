@@ -3,3 +3,4 @@
 - Convolutional Neural Networks
 - Recurrent Neural Networks
 - Reinforcement Learning
+Core
